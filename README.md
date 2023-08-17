@@ -1,2 +1,16 @@
 # PrivateFortniteServer
-An 1.8 fortnite server emulator
+
+# Dependencies used
+- express
+- morgan
+- nodemon
+- ws (still not used)
+- websocket (still not used)
+
+# Tools used to make this
+- Visual studio code
+- Ghidra
+- Nodejs
+
+# How to run it?
+```npm run dev```
